@@ -4,7 +4,7 @@ This repository implements the MAgentOmics proposed in the paper “Multi-agent 
 
 **Reference:**
 
-[1] Sina Tabakhi and Haiping Lu, [“Multi-agent Feature Selection for Integrative Multi-omics Analysis,”](hhttps://github.com/SinaTabakhi/MAgentOmics) in 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2022.
+[1] Sina Tabakhi and Haiping Lu, [“Multi-agent Feature Selection for Integrative Multi-omics Analysis,”](hhttps://github.com/SinaTabakhi/MAgentOmics) in 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2022.
 
 ## Requirements
 
@@ -40,7 +40,7 @@ If you find this method useful, please cite our paper:
 @inproceedings{tabakhi2022magentomics,
   title={Multi-agent Feature Selection for Integrative Multi-omics Analysis},
   author={Tabakhi, Sina and Lu, Haiping},
-  booktitle={42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  booktitle={44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
   year={2022}
 }
 ```
