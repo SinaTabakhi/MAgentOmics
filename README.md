@@ -6,6 +6,14 @@ This repository implements the MAgentOmics proposed in the paper “Multi-agent 
 
 [1] Sina Tabakhi and Haiping Lu, “[Multi-agent Feature Selection for Integrative Multi-omics Analysis](https://ieeexplore.ieee.org/document/9871758),” 2022 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Glasgow, Scotland, United Kingdom, 2022, pp. 1638-1642, doi: [10.1109/EMBC48229.2022.9871758](https://doi.org/10.1109/EMBC48229.2022.9871758).
 
+## Corrections
+
+We have found one typo in the published paper. In Equation (1), we wrote the `min` operator instead of the `max` operator. Provided below is the correct format of the equation:
+
+![This is an image](https://github.com/SinaTabakhi/MAgentOmics/blob/main/Equation_1.png)
+
+It should be noted that we have correctly implemented the equation in the source code.
+
 ## Requirements
 
 The code of the MAgentOmics method is implemented using `Python 3.10.2`. Below is the list of packages and frameworks we have used in the implementation:
