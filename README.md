@@ -4,7 +4,7 @@ This repository implements the MAgentOmics proposed in the paper “Multi-agent 
 
 **Reference:**
 
-[1] Sina Tabakhi and Haiping Lu, [“Multi-agent Feature Selection for Integrative Multi-omics Analysis,”](hhttps://github.com/SinaTabakhi/MAgentOmics) in 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2022.
+[1] Sina Tabakhi and Haiping Lu, “[Multi-agent Feature Selection for Integrative Multi-omics Analysis](https://ieeexplore.ieee.org/document/9871758),” 2022 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Glasgow, Scotland, United Kingdom, 2022, pp. 1638-1642, doi: [10.1109/EMBC48229.2022.9871758](https://doi.org/10.1109/EMBC48229.2022.9871758).
 
 ## Requirements
 
@@ -37,10 +37,13 @@ label = pd.read_csv('DataSet_OvarianCancer/ClinicalMatrix',sep='\t',index_col=0)
 If you find this method useful, please cite our paper:
 
 ```bibtex
-@inproceedings{tabakhi2022magentomics,
+@inproceedings{tabakhi2022multi,
   title={Multi-agent Feature Selection for Integrative Multi-omics Analysis},
   author={Tabakhi, Sina and Lu, Haiping},
-  booktitle={44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
-  year={2022}
+  booktitle={2022 44th Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={1638--1642},
+  year={2022},
+  organization={IEEE}
+  doi={10.1109/EMBC48229.2022.9871758}
 }
 ```
